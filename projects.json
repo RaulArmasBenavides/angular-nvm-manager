@@ -1,0 +1,17 @@
+[
+    {
+      "name": "Cliente A",
+      "nodeVersion": "12.22.12",
+      "angularCli": "13.3.9"
+    },
+    {
+      "name": "Cliente B",
+      "nodeVersion": "18.19.0",
+      "angularCli": "17.2.3"
+    },
+    {
+      "name": "Cliente C",
+      "nodeVersion": "20.9.0",
+      "angularCli": "19.2.5"
+    }
+  ]
