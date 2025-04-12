@@ -1,4 +1,9 @@
 [
+    {   
+      "name": "LPS",
+      "nodeVersion": "12.22.12",
+      "angularCli": "11.2.12" 
+    },
     {
       "name": "Cliente A",
       "nodeVersion": "12.22.12",
